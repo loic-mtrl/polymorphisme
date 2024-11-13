@@ -1,19 +1,25 @@
-class phone:
+
+class apple():
     def __init__(self, name, battery):
         self.battery = battery
         self. name = name
-    def showOS():
-        pass
 
-class apple(phone):
     def showOS(self):
         return "IOS"
 
-class samsung(phone):
+class samsung():
+    def __init__(self, name, battery):
+        self.battery = battery
+        self. name = name
+
     def showOS(self):
         return "android"
 
-class xiaomi(phone):
+class xiaomi():
+    def __init__(self, name, battery):
+        self.battery = battery
+        self. name = name
+
     def showOS(self):
         return "android"
 

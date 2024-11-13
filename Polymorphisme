@@ -1,0 +1,5 @@
+Class polymorphisme :
+plusieurs classes avec la même méthode qui fait quelque chose de différent.
+
+Heritage polymorphisme :
+plusieurs classes enfants qui changent une métode parent.
